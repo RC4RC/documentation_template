@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[FR] - rc-gitlab-bot"
-labels: ''
+title: "[FR] "
+labels: feature request
 assignees: jacksonmelcher
 
 ---
